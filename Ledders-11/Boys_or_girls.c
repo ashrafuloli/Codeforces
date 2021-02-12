@@ -20,7 +20,7 @@ int main(){
         f=0;
     }
     if(a%2==0)
-    printf("CHAR WITH HER!");
+    printf("CHAT WITH HER!");
     else
     printf("IGNORE HIM!");
     return 0;
